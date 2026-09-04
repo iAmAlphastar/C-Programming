@@ -1,0 +1,41 @@
+//Array
+
+1. Find all the element is array which greater than 20.
+2. Find all the element is array which less than 50.
+3. Find the number which is divisible by 2 in the array , and print them.
+4. Find the number which is divisible by 5 in the array , and print them.
+5. Find the sum of all elements in array. 
+	eg array contains 1 , 2 , 3 , 4 , 5 => sum = 15.
+6. Find the odd elements and replace them by 0.
+7. Accept a number from user and find that number is present in the array or not.
+	eg num = 5 , array [ 1 ,2 ,3 ,5,8] so 5 is present on 4th position i.e 3rd index
+8. Find the Max & Min number and find the difference between max and min number.
+9. Find the first element of the array.
+10. Find the last element of the array.
+11. Find the middle element of the array.
+12. Swap the first and the last element of the array.
+13. Traverse/Iterate the array and change the even index value to 5.
+14. Traverse/Iterate the array and find the the index which is odd and having element even.
+15. Find the frequency/occurrences of numbers which are greater than 25.
+16. Find the frequency/occurrences of numbers which is less than 50.
+17. Find the frequency/occurrences of even numbers in the array.
+18. Find the frequency/occurrences of odd numbers in the array.
+19. Accept 5 subject marks of student in array , and print the class accordingly.
+	0 - 34 marks fail.
+	35 - 50 pass class.
+	51 - 60 2nd class.
+	61 - 75 1st class.
+	75 and above Distinction.
+
+20. Find a odd number in array and check weather the neighbour is even number.
+	eg array : | 1 | 2 | 3 | 4 | 7 | 9 |
+	so odd number here is 1 ,3 , 7 ,9. Now we will check the if their neighbours are even so 1 doesn't have a previous neighbour so move to 3 now we see the previous neighbour of 3 is 2 and ahead neighbours of 3 is 4 , so our condition is satisfies that find a odd number and find its previous neighbour and ahead neighbour is even , so now were print that odd number.
+
+21. Swap the whole elements in the array use example 12 as reference.
+	eg : array before swap : | 1 | 2 | 3 | 4 | 5 |
+	     array after swap  : | 5 | 4 | 3 | 2 | 1 |
+
+22. Print all the prime numbers in the array.
+23. Print all the perfect number in the array.
+24. Print factors of each element in the array.
+25. Print such a number whos addition of factors are greater than 20.

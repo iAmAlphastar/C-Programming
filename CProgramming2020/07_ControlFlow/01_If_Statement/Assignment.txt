@@ -1,0 +1,43 @@
+//Assignment 
+
+1 ) Accept a number from user , and check weather the number fall in which range.
+	
+	0 - 20
+	20 - 40
+	40 - 60
+	60 - 80
+	80 - 100.	
+
+2 ) Accept a single precision number from user  ,and check weather the number fall in which range.
+
+	0 - 2.0
+	2.0 - 4.0
+	4.0 - 6.0
+	6.0 - 8.0
+	8.0 - 1.00.	
+
+3 ) Accept a double precision number from user  ,and check weather the number fall in which range.
+
+	0 - 2.0
+	2.0 - 4.0
+	4.0 - 6.0
+	6.0 - 8.0
+	8.0 - 1.00.
+
+4 ) Accept a character from user and check weather it is , Captial or not.
+	eg : A : capital 
+	     b : not capital
+	     e : not capital
+	     S : capital
+
+	//note use ascii table.			
+	
+
+5 ) Accept two numbers , do addition and then find which range the number fits in.
+
+	0 - 20
+	20 - 40
+	40 - 60
+	60 - 80
+	80 - 100.	
+

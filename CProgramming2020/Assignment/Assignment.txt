@@ -1,0 +1,133 @@
+//Assignment 09 Nov 2020
+
+1) Accept 2 number from user , addition , subtraction , division , multiplication , mod.
+2) Accept 5 marks from user and display total , percentage , average.
+3) Accept temperature from user , Fahrenheit to Celsius.
+4) Accept temperature from user , Celsius to Fahrenheit.
+  
+
+//Assignment 10 Nov 2020
+
+5) Find area of Rectangle.
+6) Find area of Square. 
+7) Find area of Rhombus.
+8) Find area of Parallelogram.
+9) Find area of Trapezoid.
+10) Find Pythagoras theorem.
+11) Perimeter of Triangle.
+12) Find circumference of circle.
+13) Accept 2 numbers from user , Check whether the both numbers are equal or not.
+	eg : i/p : 12 13 o/p: Not equal
+	     i/p : 13 13 o/p: Equal
+
+14) Print the pattern #$ #% #& #*.
+15) Accept a price from user , and depending on the price give the following discount.
+	if price is less than or equal to 500 the 10% discount.
+	if price greater than 500 but less than or equal to 2000 20% discount.
+	if price is greater than 2000 and less than 5000 then 30% discount.
+	if price is 5000 or greater , then 40% discount.
+
+//Assignment 17 Nov 2020
+//use  of for
+16) Print even numbers between 0 - 100
+17) Print odd numbers between 0 - 100
+18) Accept 1 number from user and display its factors.
+    Eg: i/p: 12
+	o/p: 1,2,3,4,6.
+19) Accept 1 number from user and return its addition of factors.
+    Eg: i/p: 12
+	o/p: 1+2+3+4+6 = 16	
+20) Accept 2 numbers and check weather the second number is factor of first number.
+21) Accept one number from user and display a number line.
+    Eg: i/p : 4
+	o/p : -4 -3 -2 -1 0 1 2 3 4
+22) Accept one number from user and display pattern.
+    1) 3# 3# 3# 3# 3#
+    2) $* $* #* $* $*
+    3) a b c d e f g h i j k l m n o p q r s t u v w x y z
+    4) z y x w v u t s r q p o n m l k j i h g f e d c b a
+23) Accept 1 number and display its table.
+24) Accept 2 number and 1 operator(+ , - , * , /) and perform the action as given in the operator.
+
+//Assignment. 18 Nov 2020
+
+25) Accept 1 character and find weather the character is Capital or Small.
+26) Accept 1 number from user which is less than 25 and display the following output [A,B,C,D,E,F,H,I,J,K]
+27) Accept 1 character i.e. capital and convert its equivalent small
+	eg: i/p : A
+	    o/p : a
+28) Accept 1 character i.e. small and convert it to capital.
+	eg: i/p : a
+	    o/p : A
+29) Accept a character capital or small and convert it to it its opposite.
+	eg : i/p : a 
+	     o/p : A
+            
+ 	     i/p : B 
+	     o/p : b
+            	
+	     i/p : c 
+	     o/p : C
+
+	     i/p : A 
+	     o/p : a
+
+30) Accept one number and display it square.
+	eg i/p : 5
+	   o/p : 25
+
+	eg i/p : 6
+	   o/p : 36
+
+	eg i/p : 7
+	   o/p : 49
+
+		
+31) Accept one number and display it cube.
+	eg i/p : 5
+	   o/p : 125
+
+	eg i/p : 6
+	   o/p : 216
+
+	eg i/p : 7
+	   o/p : 343
+
+32) Accept two number and find the power.
+	eg : i/p: 2 3
+	     o/p: 8	
+
+	eg : i/p: 3 2
+	     o/p: 9
+
+33) Accept 1 number and 1 character and print the following.
+ 	eg: i/p : 5 $
+	    o/p : $ $ $ $ $	 	
+
+34) Accept 2 numbers and print the numbers between them
+	i/p: 8 16
+	o/p: 8 9 10 11 12 13 14 15 16
+
+35) Accept 2 numbers and print only even numbers between them
+	i/p: 8 16
+	o/p: 8 10 12 14 16
+
+36) Accept 2 numbers and print only odd numbers between them
+	i/p: 8 16
+	o/p: 9 11 13 15
+
+37) Accept 2 numbers and find the sum of even numbers between them
+	i/p: 8 16
+	o/p: 8+10+12+14+16 = 60
+
+38) Accept 2 numbers and find the sum of odd numbers between them
+	i/p: 8 16
+	o/p: 9+11+13+15 = 48
+ 
+
+
+
+
+
+            
+            

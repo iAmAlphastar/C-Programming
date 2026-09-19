@@ -27,7 +27,7 @@ int main()
 
 float perimeter_rect(float length,float width)
 {
-    return(2 * length * width);
+    return(2 * (length + width));
 }
 
 float area_rect(float length,float width)
